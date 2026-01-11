@@ -20,4 +20,4 @@
 ## ⑦フリー項目（感想、シェアしたいこと等なんでも）
 - プレイイメージです
 
-https://github.com/user-attachments/assets/XXX
+https://github.com/YNProject/php02kadai/issues/1#issue-3801046939
