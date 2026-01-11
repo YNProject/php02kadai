@@ -1,4 +1,4 @@
-# ①ミニ冷蔵庫
+# ①読書記録
 ![Game Image](./img/phpkadai02.png)
 ## ②説明
 - 読書記録です
@@ -20,4 +20,4 @@
 ## ⑦フリー項目（感想、シェアしたいこと等なんでも）
 - プレイイメージです
 
-https://github.com/YNProject/php02kadai/issues/1#issue-3801046939
+https://github.com/user-attachments/assets/c75f6fb0-eba2-4b1c-975f-ffa66781e400
